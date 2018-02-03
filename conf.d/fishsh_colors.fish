@@ -1,6 +1,6 @@
 # Custom colors
-set sh_color1 6639A6
-set sh_color2 00ADB5
+set sh_color1 magenta
+set sh_color2 cyan
 
 # Reset colors
 set fish_color_command $sh_color2
