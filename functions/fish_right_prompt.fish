@@ -1,5 +1,5 @@
 function __prompt_git
-  set_color green
+  set_color cyan
   printf '%s' (echo (__fish_git_prompt) | sed -e 's|(||' | sed -e 's|)||')
   set_color normal
 end
