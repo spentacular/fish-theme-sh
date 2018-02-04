@@ -2,4 +2,5 @@
 
 > My personal minimal fish shell theme
 
-<img width="698" alt="shell" src="https://user-images.githubusercontent.com/1043478/34863977-b58e1502-f737-11e7-9f89-b878ae5210ae.png">
+<img width="650" alt="screen shot 2018-02-04 at 12 51 35 am" src="https://user-images.githubusercontent.com/1043478/35775013-ae1d2306-0945-11e8-8712-56b48a22b00f.png">
+
