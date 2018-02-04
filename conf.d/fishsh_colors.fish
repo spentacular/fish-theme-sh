@@ -1,10 +1,6 @@
-# Custom colors
-set sh_color1 magenta
-set sh_color2 cyan
-
 # Reset colors
-set fish_color_command $sh_color2
-set fish_color_param $sh_color2
+set fish_color_command white
+set fish_color_param white
 set fish_color_valid_path
 
 # Git
